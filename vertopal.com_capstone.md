@@ -155,3 +155,6 @@ used pivot table to construct the result table\
 ![Total Rides(Minutes) in each day of the six month](https://github.com/NEB73/capstone-case-study-cyclystic/assets/151795453/87275f38-ce7f-4f38-bfe7-cfca87c858d7)
 
 ![Total rides(Minutes) of Subscribers each month](https://github.com/NEB73/capstone-case-study-cyclystic/assets/151795453/c015a5d8-899d-4ef6-80da-39b6df12cc36)
+
+
+**Phase -- 5 Share**
