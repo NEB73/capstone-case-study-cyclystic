@@ -139,6 +139,8 @@ used pivot table to construct the result table\
 
 
 **Phase -- 5 Share**
+
+
 ![map q1](https://github.com/NEB73/capstone-case-study-cyclystic/assets/151795453/b6fd2b15-9fda-4e2e-8048-8cd11925d4da)
 
 <a href="https://public.tableau.com/app/profile/nebyou.daniel/viz/howmanycustomerstartedfromstartstateionabove500q1/Sheet1?publish=yes">click here</a>
@@ -147,3 +149,9 @@ used pivot table to construct the result table\
 ![map q2](https://github.com/NEB73/capstone-case-study-cyclystic/assets/151795453/fd00c818-18da-4872-8a93-78c2989b5bcb)
 
 <a href="https://public.tableau.com/app/profile/nebyou.daniel/viz/customeronstartlocationabove3000/Sheet1?publish=yes">click here</a>
+
+![total rides of customer each month](https://github.com/NEB73/capstone-case-study-cyclystic/assets/151795453/85b3cdaf-508e-456e-9369-90860e68fdfb)
+
+![Total Rides(Minutes) in each day of the six month](https://github.com/NEB73/capstone-case-study-cyclystic/assets/151795453/87275f38-ce7f-4f38-bfe7-cfca87c858d7)
+
+![Total rides(Minutes) of Subscribers each month](https://github.com/NEB73/capstone-case-study-cyclystic/assets/151795453/c015a5d8-899d-4ef6-80da-39b6df12cc36)
