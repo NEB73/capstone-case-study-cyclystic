@@ -124,18 +124,26 @@ Formula used: =Text(c2,"mmmm")
 station for jan,feb, marc
 
 -filtered to see the hotspot above 500 count to see the popular starting
-<a href="https://public.tableau.com/app/profile/nebyou.daniel/viz/howmanycustomerstartedfromstartstateionabove500q1/Sheet1?publish=yes">click here</a>
-
 used pivot table to construct the result table\
-insert image here
+![count of customers starting point to ride a bicycle above 500 for jan,feb,mar](https://github.com/NEB73/capstone-case-study-cyclystic/assets/151795453/88355168-3ac3-431a-8567-148e65c87ce4)
+
 
 -calculate the count for how many times customers start riding from each
 station for april,may,june
 
 -filtered to see the hotspot above 3000 count to see the popular
 starting location
+![count of customers starting point to ride a bicycle above 3000 for may, june,jul](https://github.com/NEB73/capstone-case-study-cyclystic/assets/151795453/f775f738-fa9a-45c0-8859-d689a51e7e2d)
 
 used pivot table to construct the result table\
-insert image here
+
 
 **Phase -- 5 Share**
+![map q1](https://github.com/NEB73/capstone-case-study-cyclystic/assets/151795453/b6fd2b15-9fda-4e2e-8048-8cd11925d4da)
+
+<a href="https://public.tableau.com/app/profile/nebyou.daniel/viz/howmanycustomerstartedfromstartstateionabove500q1/Sheet1?publish=yes">click here</a>
+
+
+![map q2](https://github.com/NEB73/capstone-case-study-cyclystic/assets/151795453/fd00c818-18da-4872-8a93-78c2989b5bcb)
+
+<a href="https://public.tableau.com/app/profile/nebyou.daniel/viz/customeronstartlocationabove3000/Sheet1?publish=yes">click here</a>
