@@ -8,6 +8,7 @@ title: "*capstone-case-study-cyclystic*"
 annual members
 
 **key focus**
+![day of the week count total pivot table](https://github.com/NEB73/capstone-case-study-cyclystic/assets/151795453/fcd66ddc-3026-4777-88af-b8f895eb0fca)
 
 -How to understand casual riders and annual members use cycllystic
 differently
