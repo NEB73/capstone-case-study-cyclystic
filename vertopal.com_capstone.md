@@ -145,19 +145,19 @@ used pivot table to construct the result table\
 the Annual subscriber ride the bicycles more in the inner part of cities than the customers(casual rider).
 -There are common bike stations where both subscribers and casual riders start from, and it is in high volume .
 
-**Map layout of how many customer started from the station, customer(casual riders) count above500 for the months of Jan,feb,mar**  
+## Map layout of how many customer started from the station, customer(casual riders) count above500 for the months of Jan,feb,mar <br>
 
-![map q1](https://github.com/NEB73/capstone-case-study-cyclystic/assets/151795453/b6fd2b15-9fda-4e2e-8048-8cd11925d4da)
+![map q1](https://github.com/NEB73/capstone-case-study-cyclystic/assets/151795453/b6fd2b15-9fda-4e2e-8048-8cd11925d4da) <br>
 To view the Tableau map layout Vizualization <a href="https://public.tableau.com/app/profile/nebyou.daniel/viz/howmanycustomerstartedfromstartstateionabove500q1/Sheet1?publish=yes">click here</a>
 
-**Map layout of how many customer started from the station, customer count(casual riders) above 3000 for the months of apr,may,june**  
+## Map layout of how many customer started from the station, customer count(casual riders) above 3000 for the months of apr,may,june
 
-![map q2](https://github.com/NEB73/capstone-case-study-cyclystic/assets/151795453/fd00c818-18da-4872-8a93-78c2989b5bcb)
+![map q2](https://github.com/NEB73/capstone-case-study-cyclystic/assets/151795453/fd00c818-18da-4872-8a93-78c2989b5bcb) <br>
 To view the Tableau map layout Vizualization <a href="https://public.tableau.com/app/profile/nebyou.daniel/viz/customeronstartlocationabove3000/Sheet1?publish=yes">click here</a>
 
-**Map layout of how many customer started from the station, subscriber count(annual member) above 2300 for the months of jan,feb,mar**  
+## Map layout of how many customer started from the station, subscriber count(annual member) above 2300 for the months of jan,feb,mar
 
-![subscriber q1](https://github.com/NEB73/capstone-case-study-cyclystic/assets/151795453/29c8520a-3340-43ea-a16c-fa84851d07c4)
+![subscriber q1](https://github.com/NEB73/capstone-case-study-cyclystic/assets/151795453/29c8520a-3340-43ea-a16c-fa84851d07c4)<br>
 
 To view the Tableau map layout Vizualization<a href="https://public.tableau.com/app/profile/nebyou.daniel/viz/howmanysubscribersstartedfromthatstationabove2300countformonthofjanfebmar/Sheet1?publish=yes">click here</a>
 
