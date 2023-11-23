@@ -113,7 +113,8 @@ for(inputfile in inputfiles){
   new_data<-rbind(new_data,data)
 }
 ```
-
+<br>
+The combined excel file can be found here  <a href="https://drive.google.com/file/d/1GMj072QQOYAOhmrITmO4anLUMOaHL9jt/view?usp=sharing">click here</a>
 <br><br>**Phase 4 - Analysis**
 
 1.)calculate the total rides on each day for each month of the dataset
