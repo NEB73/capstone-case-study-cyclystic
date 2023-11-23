@@ -160,10 +160,9 @@ To view the Tableau map layout Vizualization <a href="https://public.tableau.com
 ![subscriber q1](https://github.com/NEB73/capstone-case-study-cyclystic/assets/151795453/29c8520a-3340-43ea-a16c-fa84851d07c4)<br>
 
 To view the Tableau map layout Vizualization<a href="https://public.tableau.com/app/profile/nebyou.daniel/viz/howmanysubscribersstartedfromthatstationabove2300countformonthofjanfebmar/Sheet1?publish=yes">click here</a>
+## Map layout of how many customers started from the stations , subscriber count(annual member) above 3500 for the months of apr,may,june 
 
-**Map layout of how many customers started from the stations , subscriber count(annual member) above 3500 for the months of apr,may,june**  
-
-![subscriber q2](https://github.com/NEB73/capstone-case-study-cyclystic/assets/151795453/ca5944ed-a3c4-4b6e-9da4-885cb4b515d0)
+![subscriber q2](https://github.com/NEB73/capstone-case-study-cyclystic/assets/151795453/ca5944ed-a3c4-4b6e-9da4-885cb4b515d0) <br>
 To view the Tableau map layout Vizualization<a href="https://public.tableau.com/app/profile/nebyou.daniel/viz/howmanycustomersstartfromthatstationcountabove3500formonthofaprilmayjune/Sheet1?publish=yes">click here</a>
 
 
@@ -176,3 +175,11 @@ To view the Tableau map layout Vizualization<a href="https://public.tableau.com/
 
 
 **Phase -- 6 Act**
+
+**Recommendations**
+1.Is to target the month of june to advertize and execute marketing campaign since that is the most interactive and high usage month for customers
+2.Target the the shoreline locations more since that where most of the customer use the bikes locations like,Adler Planetarium,Buckingham Fountain
+,Burnham Harbor,Dusable HarborField Museum,Lake Shore Dr & Monroe St,Lake Shore Dr & North Blvd,McClurg Ct & Illinois St,Michigan Ave & Oak St,Millennium Park,Montrose HarborShedd Aquarium,Streeter Dr & Grand Ave,Theater on the Lake
+3.To create a a month sample plan to test out for a lower price so that customers can see the use of subscription by adding a subscribers bike section in each station where some of the bike can only be accessed by subscribers.
+![image](https://github.com/NEB73/capstone-case-study-cyclystic/assets/151795453/8dec7c10-01ed-4ca7-adaa-d5f4e4d193d7)
+
