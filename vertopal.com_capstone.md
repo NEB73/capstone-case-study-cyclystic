@@ -8,7 +8,6 @@ title: "*capstone-case-study-cyclystic*"
 annual members
 
 **key focus**
-![day of the week count total pivot table](https://github.com/NEB73/capstone-case-study-cyclystic/assets/151795453/fcd66ddc-3026-4777-88af-b8f895eb0fca)
 
 -How to understand casual riders and annual members use cycllystic
 differently
@@ -108,22 +107,24 @@ Formula used: =Text(c2,"mmmm")
 -calculate the total rides on each day for each month of the dataset
 
 -used pivot table to construct the result table\
-<img src="capstone-case-study-cyclystic
-/table for total ride on each day for each month.png">
+![table  for total ride on each day for each month](https://github.com/NEB73/capstone-case-study-cyclystic/assets/151795453/60b840d8-453f-406e-81b4-315b83a542a1)
+
 
 -calculate the total rides each month by customers\
 -used pivot table to construct the result table\
-insert image here
+![table total rides of customer each month](https://github.com/NEB73/capstone-case-study-cyclystic/assets/151795453/7c79c16d-5b67-4df3-8a65-73c698944af9)
+
 
 -calculate the total rides each month by subscribers\
 -used pivot table to construct the result table\
-insert image here
+![table for total ride each moth by subscriber](https://github.com/NEB73/capstone-case-study-cyclystic/assets/151795453/bfd77324-6e2d-4a67-859c-d5915ca74f44)
+
 
 -calculate the count for how many times customers start riding from each
 station for jan,feb, marc
 
 -filtered to see the hotspot above 500 count to see the popular starting
-location
+https://public.tableau.com/views/customeronstartlocationabove3000/Sheet1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
 
 used pivot table to construct the result table\
 insert image here
