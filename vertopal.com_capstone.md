@@ -107,7 +107,8 @@ Formula used: =Text(c2,"mmmm")
 -calculate the total rides on each day for each month of the dataset
 
 -used pivot table to construct the result table\
-<img src="table for total ride on each day for each month.png">
+<img src="capstone-case-study-cyclystic
+/table for total ride on each day for each month.png">
 
 -calculate the total rides each month by customers\
 -used pivot table to construct the result table\
