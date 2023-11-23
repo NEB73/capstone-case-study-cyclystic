@@ -176,10 +176,10 @@ To view the Tableau map layout Vizualization<a href="https://public.tableau.com/
 
 **Phase -- 6 Act**
 
-**Recommendations**
-1.Is to target the month of june to advertize and execute marketing campaign since that is the most interactive and high usage month for customers <br>
+**Top Three Recommendations** <br><br>
+1.Is to target the month of june to advertize and execute marketing campaign since that is the most interactive and high usage month for customers <br><br>
 2.Target the the shoreline locations more since that where most of the customer use the bikes locations like,Adler Planetarium,Buckingham Fountain
-,Burnham Harbor,Dusable HarborField Museum,Lake Shore Dr & Monroe St,Lake Shore Dr & North Blvd,McClurg Ct & Illinois St,Michigan Ave & Oak St,Millennium Park,Montrose HarborShedd Aquarium,Streeter Dr & Grand Ave,Theater on the Lake <br>
-3.To create a a month sample plan to test out for a lower price so that customers can see the use of subscription by adding a subscribers bike section in each station where some of the bike can only be accessed by subscribers.<br>
+,Burnham Harbor,Dusable HarborField Museum,Lake Shore Dr & Monroe St,Lake Shore Dr & North Blvd,McClurg Ct & Illinois St,Michigan Ave & Oak St,Millennium Park,Montrose HarborShedd Aquarium,Streeter Dr & Grand Ave,Theater on the Lake <br><br>
+3.To create a a month sample plan to test out for a lower price so that customers can see the use of subscription by adding a subscribers bike section in each station where some of the bike can only be accessed by subscribers.<br><br>
 
 
